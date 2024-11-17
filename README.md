@@ -70,6 +70,7 @@
 <p>
     <img alt="Pro Tools" src="https://img.shields.io/badge/-Pro%20Tools-5F0AE6?style=for-the-badge&logo=protools&logoColor=white">
     <img alt="FMOD" src="https://img.shields.io/badge/-FMOD-000000?style=for-the-badge&logo=fmod&logoColor=white">
+    <img alt="Wwise" src="https://img.shields.io/badge/-Wwise-0A3F8A?style=for-the-badge&logo=wwise&logoColor=white">
     <img alt="FFMPEG" src="https://img.shields.io/badge/-FFMPEG-449d44?style=for-the-badge&logo=ffmpeg&logoColor=white">
     <img alt="JUCE" src="https://img.shields.io/badge/-JUCE-FCC624?style=for-the-badge&logo=juce&logoColor=black">
     <img alt="Max" src="https://img.shields.io/badge/-Max-25A6A3?style=for-the-badge">
