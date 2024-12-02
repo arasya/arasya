@@ -45,14 +45,12 @@
     <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 </p>
 
-### Databases
+### Databases & Storage
 
 <p>
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img alt="MinIO" src="https://img.shields.io/badge/Minio-FF0000?style=for-the-badge&logo=iCloud&logoColor=white">
-    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-    <img alt="YAML" src="https://img.shields.io/badge/yaml-F5792A?style=for-the-badge&logo=yaml&logoColor=white">
 </p>
 
 ### Machine Learning
